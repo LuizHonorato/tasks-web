@@ -30,6 +30,8 @@ ou
 
 `npm run dev`
 
+A aplicação estará disponível no endereço http://localhost:5173
+
 
 # Screenshots
 
